@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3b2971b5-2a05-48c5-857b-d7162aa250a8")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 125.73 135.89)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "746ebd3f-3a71-420b-b44f-d3b0a5086107")
+		(property "Sheetname" "SwitchMatrix"
+			(at 125.73 135.1784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchMatrix.kicad_sch"
+			(at 125.73 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wolf75"
+				(path "/3b2971b5-2a05-48c5-857b-d7162aa250a8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
